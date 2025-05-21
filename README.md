@@ -59,6 +59,16 @@ self.client = Groq(api_key='your-api-key')
 
 ---
 
+## 📸 Screenshots
+
+| Home Page                                                       | Word Details                                                          | Quiz Generator                                                  |
+| --------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------- |
+| ![Home](https://i.postimg.cc/nc51vmRj/Screenshot-2025-05-21-152736.png) | ![Details](https://i.postimg.cc/76MtxNkJ/Screenshot-2025-05-21-152805.png) | ![Quiz](https://i.postimg.cc/CxSG0VK7/Screenshot-2025-05-21-152822.png) |
+
+*Replace the above placeholder images with actual screenshots from your app.*
+
+---
+
 ## 🚧 Future Enhancements
 
 * User login and progress tracking
